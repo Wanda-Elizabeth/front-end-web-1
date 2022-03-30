@@ -1,0 +1,30 @@
+ h2{
+     color: white;
+     text-decoration: none;
+ }
+ h1{
+     color: white;
+ }
+ body{
+     background-position: top;
+     text-decoration: none;
+ }
+ p{
+    color: rgb(220, 228, 213); 
+    font-size: 15px;
+ }
+ol li{
+    color: rgb(235, 243, 234);
+
+}
+img{
+    width: 200px; 
+    length: 200px;
+}
+h3{
+    color: rgb(221, 231, 210);
+}
+h4{
+    color: white;
+}
+
